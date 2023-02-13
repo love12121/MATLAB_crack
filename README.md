@@ -57,4 +57,10 @@ SIGNATURE
 ```
 
 4. Now you can edit Your license file and extend trial period and move to another machine
+6. Actually its possible to change any field of license and make it non trial, example:
+    INCREMENT MATLAB MLM 48 15-mar-2083 uncounted B8B19D5D03E0 \
+        VENDOR_STRING=vi=30:at=186:lu=0:ei=11055232:lr=1:ep=7: \
+        HOSTID=ANY ISSUED=13-Feb-2023 \
+        NOTICE=product=MATLAB SN=11055232 TS_OK SIGN="0057 2345 7205 7353 \
+        29FE EEE6 55B0 0400 D1EE 5555 D35A 4444 6B30 4A66 6AAE"
 5. done
