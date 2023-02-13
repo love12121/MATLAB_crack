@@ -56,5 +56,5 @@ SIGNATURE
 00007FFB29CAF9B3   | E9 87FEFFFF                     | jmp libmwlmgrimpl.7FFB29CAF83F                     |
 ```
 
-4. Now you can edit Your license file and extend trial perion and move to another machine
+4. Now you can edit Your license file and extend trial period and move to another machine
 5. done
