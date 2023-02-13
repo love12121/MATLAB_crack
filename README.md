@@ -1,5 +1,7 @@
 # MATLAB_crack version R2022b
 
+This is just cracking training example for educational purpose.
+
 Matlab license system is based on FlexLm that is implemented in:
 \MATLAB\R2022b\bin\win64\matlab_startup_plugins\lmgrimpl\libmwlmgrimpl.dll
 
